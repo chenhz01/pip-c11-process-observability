@@ -1,0 +1,9 @@
+{
+  "id": "L41",
+  "slug": "loop-trace-minifier",
+  "name": "轨迹最小化",
+  "cluster": "过程可观测",
+  "dir": "L41-loop-trace-minifier",
+  "loc": 48,
+  "chars": 1242
+}
